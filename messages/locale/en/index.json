@@ -1,0 +1,22 @@
+{
+	"signin_button": "Signin",
+	"signin_prompt": "Please, click this link to signin.",
+	"tenant_prompt": "You need to be authenticated. Please, select tenant.",
+	"greeting": "Welcome to Falcon Chat Bot!",
+	"end_conversation": "Bye!",
+	"menu_accrual_balance": "How many Vacation hours do I have?",
+	"menu_sick_day": "I need to take a sick day",
+	"menu_worked_hours": "How many hours did I work this week?",
+	"menu_absence": "Who is not here from my team?",
+	"menu_punch_list": "Show me my list punch?",
+	"menu_overtime": "Who is approaching overtime?",
+	"menu_choice_prompt": "Please, choose an action.",
+	"start_date_prompt": "Please, specify start date.",
+	"end_date_prompt": "Please, specify end date.",
+	"timeframe_previous_pay_period": "Previous Pay Period",
+	"timeframe_current_pay_period": "Current Pay Period",
+	"timeframe_next_pay_period": "Next Pay Period",
+	"timeframe_today": "Today",
+	"timeframe_date_range": "Date Range",
+	"timeframe_choice_prompt": "Please, choose a timeframe."
+}

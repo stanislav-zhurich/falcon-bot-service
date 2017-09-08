@@ -1,0 +1,21 @@
+{
+	"contentType": "application/vnd.microsoft.card.adaptive",
+	"content": {
+		"$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+		"type": "AdaptiveCard",
+		"version": "0.5",
+		"body": [
+			{
+				"type": "TextBlock",
+				"text": "Punch In - Mon 8/28 11:30 PM",
+				"size": "large",
+				"weight": "bolder"
+			},
+			{
+				"type": "TextBlock",
+				"text": "Entered Mon 8/28 12:35 PM",
+				"isSubtle": true
+			}
+		]
+	}
+}
